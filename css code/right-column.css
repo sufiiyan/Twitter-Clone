@@ -1,0 +1,141 @@
+.right-column{
+    display: flex;
+    font-size: 20px;
+    flex-direction: column;
+    position: fixed;
+    padding-left: 1200px;
+}
+.search-twitter{
+    margin-left: 30px;
+    height: 41px;
+    width: 350px;
+    border-radius: 100px;
+    font-size: 15px;
+    border: none;
+    background-color: rgb(32, 32, 32);
+}
+.follow-who-div{
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 350px;
+    border-radius: 20px;
+    background-color: rgb(32, 32, 32);
+    height: 320px;
+}
+.follow-who{
+    display: inline-block;
+    padding-left: 20px;
+    padding-top: 0px;
+    font-weight: bold;
+    font-size: 19px;
+}
+.weeknd-photo, .kunal-photo, .microsoft-photo{
+    height: 45px;
+    border-radius: 25px;
+    margin-left: 15px;
+    margin-top: 0px;
+    display: inline-block;
+}
+.follow-name{
+    font-size: 16px;
+    margin-left: 5px;
+    margin-top: 0px;
+    align-items: center;
+    margin-left: 15px;
+}
+.user-account{
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+}
+.user-account:hover{
+    opacity: 0.8;
+}
+.weeknd, .kunal, .microsoft{
+    margin-bottom: 1px;
+    margin-top: 15px;
+}
+.weeknd:hover, .kunal:hover, .microsoft:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.weeknd-user, .kunal-user, .microsoft-user{
+    margin-top: 0px;
+    opacity: 0.4;
+}
+.weeknd-follow{
+    height: 35px;
+    width: 80px;
+    border-radius: 50px;
+    border: none;
+    font-weight: bold;
+    margin-left: 80px;
+}
+.weeknd-follow:hover, .kunal-follow:hover, .microsoft-follow:hover{
+    opacity: 0.7;
+    transition: 0.6s;
+    cursor: pointer;
+}
+.kunal-follow{
+    height: 35px;
+    width: 80px;
+    border-radius: 50px;
+    border: none;
+    font-weight: bold;
+    margin-left: 82px;
+}
+.microsoft-follow{
+    height: 35px;
+    width: 80px;
+    border-radius: 50px;
+    border: none;
+    font-weight: bold;
+    margin-left: 97px;
+}
+.show-more{
+    color:  rgb(29 161 242);
+    font-size: 14px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-left: 16px;
+}
+.info{
+    font-size: 13px;
+    opacity: 0.5;
+    padding-left: 35px;
+    padding-top: 8px;
+}
+.inline1-p{
+    display: inline-block;
+    padding-left: 8px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.inline1-p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.inline2-p{
+    display: inline-block;
+    padding-left: 8px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.inline2-p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.inline3-p{
+    display: inline-block;
+    padding-left: 8px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.info-div1{
+    margin-bottom: 6px;
+    margin-top: 9px;
+}
+.info-div3{
+    margin-bottom: 0px;
+    margin-top: 7px;
+}
