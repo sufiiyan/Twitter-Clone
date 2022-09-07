@@ -1,0 +1,325 @@
+
+.main-body
+{
+    background-color: rgb(0, 0, 0);
+    padding-bottom: 5000px;
+    font-family: Arial, 'Segoe UI';
+    color: white;
+}
+.middle-column
+{
+    height: 6100px;
+    display: flex;
+    flex-direction: column;
+    float: left;
+    padding-left: 600px;
+}
+.right-column{
+    font-size: 100px;
+    display: inline-block;
+}
+.main-content{
+    margin-bottom: 0px;
+}
+.tweet
+{
+    margin-top: 0;
+    display: block;
+    margin-bottom: 0px;
+}
+.middle-column
+{
+    font-size: 15px;
+}
+
+.profile-picture
+{
+    width: 10px;
+    display: inline-block;
+    margin-bottom: 0px;
+}
+.tweet-part
+{
+    width: 500px;
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+}
+.tweet-icons{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 9px;
+    margin-bottom: 0px;
+    display: flex;
+    flex-direction: row;
+}
+.tweet-comment{
+    margin-left: 0px;
+}
+.tweet-retweet{
+    margin-left: 40px;
+}
+.tweet-heart{
+    margin-left: 40px;
+}
+.tweet-share{
+    margin-left: 40px;
+}
+.tweet-tip{
+    margin-left: 40px;
+}
+.john-cena, .elon-musk, .meme-cat, .stranger-things, .world-stats, .world-engineers, .nasa-web, .dream, .neil-de, .jack, .connell, .mkbhd, .ronaldo, .minecarft, .beast, .kanye, .luke  
+{
+    border-bottom: 1px;
+    border-top: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    border-style: solid;
+    border-color:grey;
+}
+.photo-tweet
+{
+    max-height: 100%;
+    border-radius: 20px;
+    max-width: 100%;    
+    object-fit: contain;
+}
+
+.john-photo, .elon-photo, .cat-photo, .st-photo, .world-photo, .web-photo, .dream-photo, .neil-photo, .engineer-photo, .jack-photo, .connell-photo, .mkbhd-photo, .ronaldo-photo, .minecraft-photo, .beast-photo, .kanye-photo, .luke-photo, .my-photo
+{
+    height: 45px;
+    border-radius: 25px;
+    margin-left: 15px;
+    margin-top: 0px;
+    display: inline-block;
+}
+.john-photo
+{
+    margin-bottom: 48px;
+}
+.elon-photo
+{
+    margin-bottom: 31px;
+}
+.cat-photo
+{
+    margin-bottom: 542px;
+}
+.st-photo
+{
+    margin-bottom: 520px;
+}
+.world-photo
+{
+    margin-bottom: 237px;
+}
+.web-photo
+{
+    margin-bottom: 615px;
+}
+.dream-photo
+{
+    margin-bottom: 105px;
+}
+.neil-photo
+{
+    margin-bottom: 397px;
+}
+.engineer-photo
+{
+    margin-bottom: 520px;
+}
+.jack-photo
+{
+    margin-bottom: 35px;
+}
+.connell-photo
+{
+    margin-bottom: 442px;
+}
+.mkbhd-photo
+{
+    margin-bottom: 105px;
+}
+.ronaldo-photo
+{
+    margin-bottom: 680px;
+}
+.minecraft-photo
+{
+    margin-bottom: 550px;
+}
+.beast-photo
+{
+    margin-bottom: 120px;
+}
+.kanye-photo
+{
+    margin-bottom: 365px;
+}
+.luke-photo
+{
+    margin-bottom: 550px;
+}
+
+.neil-tweet, .web-tweet, .connell-tweet, .ronaldo-tweet, .minecraft-tweet, .kanye-tweet, .luke-tweet
+{
+    margin-top: 0px;
+}
+.account-name 
+{
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.account-name:hover
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.span
+{
+    opacity: 0.4;
+    font-size: 14px;
+    display: inline-block;
+}
+.dots 
+{
+    display: inline-block;
+    padding-left: 241px;
+    opacity: 0.7;
+}
+.dots-cat
+{
+    display: inline-block;
+    padding-left: 60px;
+    opacity: 0.7;
+}
+.dots-st
+{
+    display: inline-block;
+    padding-left: 140px;
+    opacity: 0.7;
+}
+.dots-stats
+{
+    display: inline-block;
+    padding-left: 186px;
+    opacity: 0.7;
+}
+.dots-eng
+{
+    display: inline-block;
+    padding-left: 132px;
+    opacity: 0.7;
+}
+.dots-web
+{
+    display: inline-block;
+    padding-left: 150px;
+    opacity: 0.7;
+}
+.dots-dream
+{
+    display: inline-block;
+    padding-left: 289px;
+    opacity: 0.7;
+}
+.dots-neil
+{
+    display: inline-block;
+    padding-left: 174px;
+    opacity: 0.7;
+}
+.dots-jack
+{
+    display: inline-block;
+    padding-left: 321px;
+    opacity: 0.7;
+}
+.dots-connell
+{
+    display: inline-block;
+    padding-left: 200px;
+    opacity: 0.7;
+}
+.dots-mkbhd
+{
+    display: inline-block;
+    padding-left: 198px;
+    opacity: 0.7;
+}
+.dots-ronaldo
+{
+    display: inline-block;
+    padding-left: 206px;
+    opacity: 0.7;
+}
+.dots-minecraft
+{
+    display: inline-block;
+    padding-left: 253px;
+    opacity: 0.7;
+}
+.dots-beast
+{
+    display: inline-block;
+    padding-left: 263px;
+    opacity: 0.7;
+}
+.dots-kanye
+{
+    display: inline-block;
+    padding-left:263px;
+    opacity: 0.7;
+}
+.dots-luke
+{
+    display: inline-block;
+    padding-left: 121px;
+    opacity: 0.7;
+}
+.header
+{
+    height: 110px;
+    margin-left: 20px;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row;
+}
+.home
+{
+    margin-top: 20px;    
+}
+.my-photo
+{
+    margin-left: 0px;
+}
+.input
+{
+    font-size: 19px;
+    background-color: black;
+    border: none;
+    
+}
+.what
+{
+    padding-top: 78px;
+    padding-left: 6px;
+}
+.what-icons{
+    padding-left: 72px;
+    padding-bottom: 10px;
+
+}
+.icon-tweet{
+    padding-left: 200px;
+}
+.comment, .heart, .retweet{
+    display: inline-block;
+    margin: 0px;
+    margin-top: 7px;
+    margin-left: 4px;
+    opacity: 0.6;
+}
