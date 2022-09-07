@@ -1,0 +1,263 @@
+.left-column{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    float: left;
+    width: 250px;
+    margin-left: 340px;
+    position: fixed;
+}
+.twitter-white-logo{
+    height: 28px;
+    margin-left: 6px;
+}
+.Home{
+    margin-top: 25px;
+    display:inline-block;
+    flex-direction: row;
+    align-items: center;
+    font-weight: bold;
+}
+.home-para{
+    margin-top: 1px;
+    display: inline-block;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.home-button{
+    width: 160px;
+    text-align: left;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 100px;
+    border:none;
+}
+.home-button:hover{
+    opacity: 0.8;
+    transition: color 0.5s;
+    cursor: pointer;
+}
+.Explore{
+    margin-top: 25px;
+    display:inline-block;
+    flex-direction: row;
+    align-items: center;
+    font-weight: bold;
+}
+.explore-para{
+    margin-top: 1px;
+    display: inline-block;
+    position: absolute;
+    margin-top: 6px;
+    margin-left: 15px;
+}
+.explore-button{
+    width: 160px;
+    text-align: left;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 100px;
+    border:none;
+}
+.explore-button:hover{
+    opacity: 0.8;
+    transition: color 0.5s;
+    cursor: pointer;
+}
+.Notifications{
+    margin-top: 25px;
+    display:inline-block;
+    flex-direction: row;
+    align-items: center;
+    font-weight: bold;
+}
+.not-para{
+    margin-top: 1px;
+    display: inline-block;
+    position: absolute;
+    margin-top: 9px;
+    margin-left: 15px;
+}
+.not-button{
+    width: 160px;
+    text-align: left;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 100px;
+    border:none;
+}
+.not-button:hover{
+    opacity: 0.8;
+    transition: color 0.5s;
+    cursor: pointer;
+}
+.Messages{
+    margin-top: 25px;
+    display:inline-block;
+    flex-direction: row;
+    align-items: center;
+    font-weight: bold;
+}
+.mesg-para{
+    margin-top: 1px;
+    display: inline-block;
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 15px;
+}
+.button-button{
+    width: 160px;
+    text-align: left;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 100px;
+    border:none;
+}
+.button-button:hover{
+    opacity: 0.8;
+    transition: color 0.5s;
+    cursor: pointer;
+}
+.Bookmarks{
+    margin-top: 25px;
+    display:inline-block;
+    flex-direction: row;
+    align-items: center;
+    font-weight: bold;
+}
+.book-para{
+    margin-top: 1px;
+    display: inline-block;
+    position: absolute;
+    margin-top: 8px;
+    margin-left: 15px;
+}
+.book-button{
+    width: 160px;
+    text-align: left;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 100px;
+    border:none;
+}
+.book-button:hover{
+    opacity: 0.8;
+    transition: color 0.5s;
+    cursor: pointer;
+}
+.Lists{
+    margin-top: 25px;
+    display:inline-block;
+    flex-direction: row;
+    align-items: center;
+    font-weight: bold;
+}
+.list-para{
+    margin-top: 1px;
+    display: inline-block;
+    position: absolute;
+    margin-top: 6px;
+    margin-left: 15px;
+}
+.list-button{
+    width: 160px;
+    text-align: left;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 100px;
+    border:none;
+}
+.list-button:hover{
+    opacity: 0.8;
+    transition: color 0.5s;
+    cursor: pointer;
+}
+.Profile{
+    margin-top: 25px;
+    display:inline-block;
+    flex-direction: row;
+    align-items: center;
+    font-weight: bold;
+}
+.prof-para{
+    margin-top: 1px;
+    display: inline-block;
+    position: absolute;
+    margin-top: 6px;
+    margin-left: 15px;
+}
+.prof-button{
+    width: 160px;
+    text-align: left;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 100px;
+    border:none;
+}
+.prof-button:hover{
+    opacity: 0.8;
+    transition: color 0.5s;
+    cursor: pointer;
+}
+.More{
+    margin-top: 25px;
+    display:inline-block;
+    flex-direction: row;
+    align-items: center;
+    font-weight: bold;
+}
+.more-para{
+    margin-top: 1px;
+    display: inline-block;
+    position: absolute;
+    margin-top: 8px;
+    margin-left: 15px;
+}
+.more-button{
+    width: 160px;
+    text-align: left;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 100px;
+    border:none;
+}
+.more-button:hover{
+    opacity: 0.8;
+    transition: color 0.5s;
+    cursor: pointer;
+}
+.blue-botton{
+    height: 52px;
+    width: 220px;
+    font-size: 17px;
+    border-radius: 60px;
+    background-color:  rgb(29 161 242);
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+.blue-botton:hover{
+    cursor: pointer;
+    opacity: 0.8;
+    transition:0.3s;
+}
+.tweet-button{
+    margin-top: 40px;
+}
